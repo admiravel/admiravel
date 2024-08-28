@@ -16,5 +16,5 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   ##
  
 <div> 
-<a href = "mailto:hxx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 </div>
